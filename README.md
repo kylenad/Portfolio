@@ -26,13 +26,6 @@ In order to be able to run the base game begin by following the instructions on 
 4. Download each of the **.cpp** and **.h** files for Mac-OS and add them to your directory
 5. Click on the Product tab at the top of the screen and select **Run** to launch the program
 
-### How to verify A* Search Algorithm MAC-OS
-Create a project folder and compile the provided code by typing *g++ Astar.cpp -o fname* into the command line. To run the file *./fname* into the command line
-
-### How to verify A* Search Algorithm Windows
-Create a project file and compile and run by using the run button in the tool bar. Ctrl + F5 will also run and compile the program.
-
-
 
 
 
