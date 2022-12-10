@@ -55,8 +55,7 @@ Create a project file and compile and run by using the run button in the tool ba
 
 
 
-## C++ Projects
-### Image Binarization --
+## Image Binarization 
 Binarization, otherwise known as thresholding, is the process of taking a grayscale image and converting it into images that are black and white. Grayscale images contain pixels ranging from 0 to 255 in intensity, while black and white images have pixels that are either 0 or 255 in intensity.  There are two different approaches to performing binarization, being global and local binarization.  For global, you need to calculate the median value of all pixels in the image.  If a pixel is less than this threshold value, it is converted to 0 intensity.  If the pixel value is greater than the threshold, it is converted to 255 intensity.  Local binarization focuses on changing pixels based on the pixel intensity values located in smaller "neighborhoods” within the picture. This project was made using C++.
 
 <details>
@@ -296,7 +295,7 @@ To run this code, you must first select an image in the format .img in order to 
 ```
 
 
-### Maze Generator --
+## Maze Generator
 The goal of this project was to make a program that would generate a random maze out of any size grid you desire.  This program uses dynamic arrays in order to acomplish this.  The input dynamic array defines the size of the grid and is the array which will change in value to generate the maze.  Another dynamic array tracks if points in the array have been visited already using true and false values (false if not visited, true if visited).  Classes were also used in this code.  This project was made using C++. 
   
   <details>
