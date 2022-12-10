@@ -596,7 +596,7 @@ You can compile this program using the following line:
 ## MATLAB Signal Analysis
 Analysis of signals and their behaviors when applying fourier transforms, as well as filters.  This assignment tasked us with splitting a 44,100Hz signal into 5 different frequency bands.  The code will ask for the user to input a number 1 through 5, each number cooresponding to a frequency band.  The output will play a part of Beethoven's symphony number 9 at a frequency dependent on the frequency band selected.  The output will also display a graphical representation of the signal being played.
 ### How to run this code
-- Use the file from MATLAB Signal Analysis and open it in MATLAB.  Simply select the green "Run" icon at the top of the screen.
+- Use the file from MATLAB Signal Analysis and open it in MATLAB.  Also download the data set included in the same folder and add it the the same directory as the previous file.  Simply select the green "Run" icon at the top of the screen.
 
 
 
