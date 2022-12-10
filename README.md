@@ -46,7 +46,6 @@ In order to be able to run the base game begin by following the instructions on 
 
 
 
-
 ## Image Binarization 
 Binarization, otherwise known as thresholding, is the process of taking a grayscale image and converting it into images that are black and white. Grayscale images contain pixels ranging from 0 to 255 in intensity, while black and white images have pixels that are either 0 or 255 in intensity.  There are two different approaches to performing binarization, being global and local binarization.  For global, you need to calculate the median value of all pixels in the image.  If a pixel is less than this threshold value, it is converted to 0 intensity.  If the pixel value is greater than the threshold, it is converted to 255 intensity.  Local binarization focuses on changing pixels based on the pixel intensity values located in smaller "neighborhoods” within the picture. This project was made using C++.
 
@@ -594,7 +593,10 @@ You can compile this program using the following line:
    ```
 
 
-
+## MATLAB Signal Analysis
+Analysis of signals and their behaviors when applying fourier transforms, as well as filters.  This assignment tasked us with splitting a 44,100Hz signal into 5 different frequency bands.  The code will ask for the user to input a number 1 through 5, each number cooresponding to a frequency band.  The output will play a part of Beethoven's symphony number 9 at a frequency dependent on the frequency band selected.  The output will also display a graphical representation of the signal being played.
+### How to run this code
+- Use the file from MATLAB Signal Analysis and open it in MATLAB.  Simply select the green "Run" icon at the top of the screen.
 
 
 
