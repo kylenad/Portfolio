@@ -3,7 +3,7 @@
 
 
 
-# Term-Project
+
 ### A* Search Algorithm
 ### Group Members:
   Alex Estrada, Kyle Nadeau, Wes Hardesky
